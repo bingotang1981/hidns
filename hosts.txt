@@ -1,0 +1,2 @@
+# One mapping per line: domain;IPv4. Lines starting with # are comments.
+google.com;127.0.0.1
